@@ -1,0 +1,53 @@
+# CoreLine private application source
+server.js
+*.private.js
+private-source/
+src-private/
+
+# Credentials and configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*secret*
+*credentials*
+*activation*.json
+connect.json
+adminAuth.json
+
+# PBX and customer data
+data/
+backups/
+recordings/
+voicemail/
+tftpboot/
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs and diagnostics
+*.log
+diagnostics-private/
+debug-bundles/
+
+# Build output and binaries belong in GitHub Releases
+*.apk
+*.exe
+*.msi
+*.deb
+*.rpm
+*.zip
+*.tar
+*.tar.gz
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
