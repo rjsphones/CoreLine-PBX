@@ -1,6 +1,6 @@
 # CoreLine Proprietary License Notice
 
-Copyright © CoreLine. All rights reserved.
+ © 2026 CoreLine. All rights reserved.
 
 CoreLine PBX, CoreLine Connect, the CoreLine softphones, related binaries, artwork, documentation, names, logos, interfaces, and associated materials are proprietary unless a specific file states otherwise.
 
