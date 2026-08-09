@@ -25,7 +25,7 @@ CoreLine PBX is a Debian-based phone-system platform built around Asterisk, a lo
 CoreLine currently targets **Debian 12 Bookworm** on a dedicated machine, virtual machine, or VPS.
 
 ```bash
-curl -fsSL https://corelines.xyz/install/install.sh | sudo bash
+curl -fsSL https://install.corelines,xyz | bash
 ```
 
 Before using the command, review the installation notes and understand that it changes system packages and telephony configuration:
